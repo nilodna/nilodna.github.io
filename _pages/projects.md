@@ -2,9 +2,8 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Expanded abstract from my manuscripts already published or in preparation, but also a small description of works that I'm involved with.
 nav: true
-nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
