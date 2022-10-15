@@ -20,7 +20,7 @@ This page presents a small description of some of the works I am involved with, 
     <div class="col-sm-6 mt-3 mt-md-0">
 	<h3 id="larvae-dispersion">Using OpenDrift to identify larvae dispersion (<em>Perinereis ponteni</em>)</h3>
 
-	"Seascape genetics and connectivity in a polychaete worm: disentangling the roles of a biogeographic barrier and environmental factors", submitted to 		<a href='link'>Journal of Biogeography</a>.
+	"Seascape genetics and connectivity in a polychaete worm: disentangling the roles of a biogeographic barrier and environmental factors", published at 		<a href='https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14504'>Journal of Biogeography</a>.
 	<p></p>
 	<p style="text-align: justify">
 	In this work we applied the <a href='https://opendrift.github.io/'>Opendrift</a> - an open source software for modeling trajectories - to understand 		the dispersion of <em>Perinereis ponteni</em>, an annelid polychaete that only evolve from egg to larvae in coastal areas, such as rockys and sand. 		Using an entire year hydrodynamic modeling, from <a href='http://preamar.io.usp.br'>PreAMar</a> - an operational forecast system for the South Brazil 		Bight -, we found that the hydrodynamics might act as a barrier, preventing larval exchange between different populations, from adjacent areas. This 		observation is evident in Figure 1. Panel Fig 1.a shows that organisms from this source never achieve shallow areas as it moves southward. Comparing 		this panel with the other two (Fig 1.b and c), it is clearly observed a barrier that we suppose to be a hydrodynamic barrier.
