@@ -9,6 +9,12 @@ nav: true
 
 ### Conference talks and posters
 
+* **Silva**, D. and Gangopadhyay, A. and Sasaki, D. K. and Dottori, M. (2023). Synoptic cross-shelf pathways of the
+mid-depth Salinity Maximum Intrusions in the South Brazil Bight (SBB). Gordon Research Conference/Seminar - Coastal Dynamics, March 16-22 - Poster presentation.
+
+* **Silva**, D. et al. (2023). An inventory of salty and warm subsurface intrusions in the South Brazil Bight (SBB). Western Boundaries Current and
+Shelf interactions, May 22-24 - Poster presentation [[slides](/assets/pdf/Silva_etal2023_WBCshelf.pdf)].
+
 * **Silva**, D. et al. (2022). Subsurface thermohaline intrusions at a mid-latitude continental shelf: descriptive climatology and double diffusion role. Ocean Sciences Meeting (OSM), March 3 - Oral presentation [[slides](/assets/pdf/Silva_etal2022_OSM22.pdf)].
 
 * **Silva**, D. et al. (2021). Exploring wind-driven primary production through numerical modelling. I Early Career Symposium on Marine Biogeochemical Modeling, February 14 - Oral presentation [[slides](/assets/pdf/Silva2021_ECRSymposium.pdf)].
