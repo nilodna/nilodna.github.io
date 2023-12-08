@@ -8,11 +8,13 @@ years: [2023, 2022, 2021, 2019]
 order: 7
 ---
 
-<h3 class="year">In prep.</h3>
+<h5 class="year">In prep.</h5>
 {% bibliography -f preprints %}
 
 {% for y in page.years %}
-  <h3 class="year">{{y}}</h3>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+<h5 class='year'>{{y}}</h5>
+{% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
+
+
 
