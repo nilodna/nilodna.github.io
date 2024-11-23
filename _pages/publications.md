@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 nav: true
 description: My publications in reverse chronological order with highlights in <strong>bold</strong>.
-years: [2023, 2022, 2021, 2019]
+years: [2024, 2023, 2022, 2021, 2019]
 order: 7
 ---
 
