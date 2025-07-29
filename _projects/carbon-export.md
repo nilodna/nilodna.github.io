@@ -24,15 +24,13 @@ Understanding these physical-biogeochemical couplings is essential to improving 
 </p>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blocking_domain.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/atlanteco_microbiomes.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blocking_sat.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+
 </div>
 <div class="caption">
-    Fig. 1 - (a) study region with numerical domain superimposed and the main locations mentioned in the manuscript and (b) remotely-sensed sea surface temperature (GHRSST) in February 13, 2014, showing the dipole SST also simulated by our numerical experiments.
+    Fig. 1 - Average Amazon River plume surface salinity (a) and chlorophyll-a (b) between August and September 2021, period of sampling of the AtlantECO - Mission Microbiomes, aboard of the RV Tara Ocean. Scatters are oceanographic stations with both CTD and Underwater Vision Profiler (UVP) samples.
 </div>
 
 <p style="text-align: justify"> 
