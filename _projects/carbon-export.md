@@ -2,11 +2,11 @@
 layout: page
 title: Physical processes influence on carbon export
 description: exploring the 
-img: assets/img/thumb_project1.png
+img: assets/img/atlanteco_microbiomes.png
 importance: 2
 category: research
 has_own_header: true
-github: https://github.com/nilodna/summer2014circulation
+github: 
 ---
 
 <h3>How physical processes shape the surface carbon export to depth</h3>
