@@ -26,7 +26,7 @@ Outside academia, I’ve applied my skills as a freelance data analyst for the r
 
 <ul>
   <li>Cross-shelf exchanges </li>
-  <li>Lagrangian drifters</li>
+  <li>Lagrangian analysis</li>
   <li>Coastal ocean modeling</li>
   <li>Low-budget instrumentation</li>
   <li>Carbon export</li>
