@@ -9,6 +9,12 @@ nav: true
 
 ### Conference talks and posters
 
+* **Silva**, D. and van Sebille, E. and Lopes, R. M. (2025). Particulate Organic Carbon Export in the Amazon River Plume. Parcels 10th Anniversary - October 4 - Oral presentation.
+
+* Penninck, S. and Lopes, R. M. and **Silva**, D. and Tuchen, P. and Baudena, A. and Stemman, L. and Brandt, P. and Kiko, R. (2025). Influence of upper-ocean physical processes on carbon flux variation in the mesopelagic equatorial Atlantic. Final Scientific Conference, AtlantECO - Oral presentation.
+
+* **Silva**, D. and Santos, G. and Penninck, S. and Silveira, I. C. A. and Guidi, L. and Elineau, A. and Calil, P. and Lopes, R. M. (2025). Flow-topography interactions drive zooplankton abundance and carbon export to depth along the Vitoria-Trindade Seamount Chain (Southwest Atlantic). Final Scientific Conference, AtlantECO - Oral presentation.
+
 * **Silva**, D. and Gangopadhyay, A. and Sasaki, D. K. and Dottori, M. (2023). Synoptic cross-shelf pathways of the
 mid-depth Salinity Maximum Intrusions in the South Brazil Bight (SBB). Gordon Research Conference/Seminar - Coastal Dynamics, March 16-22 - Poster presentation.
 
