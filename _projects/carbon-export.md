@@ -25,7 +25,7 @@ Understanding these physical-biogeochemical couplings is essential to improving 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/atlanteco_microbiomes.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/atlanteco_microbiomes.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 
 </div>
@@ -45,7 +45,8 @@ Building on these observations, I'm interested to simulate how organic carbon is
 <h3>Related talks and presentations</h3>
 ---
 
-1. **Silva**, D., and Dottori, M. (2019). Anomalous wind-driven circulation during the 2014 summer on the South Brazil Bight. Latin-American Physics of Estuarine and Coastal Ocean ([LAPECO](https://nilodna.github.io/lapeco2019.blogspot.com/)). Oral presentation [[slides](/assets/pdf/SilvaDottori_LAPECO19.pdf)].
+1. * **Silva**, D. and van Sebille, E. and Lopes, R. M. (2025). Particulate Organic Carbon Export in the Amazon River Plume. Parcels 10th Anniversary - October 4 - Oral presentation.
 
-2. **Silva**, D. and Dottori, M. (2019). Resposta da ressurgência costeira frente a presença de um bloqueio atmosférico na Plataforma Continental Sudeste: um estudo numérico do verão de 2014. Simpósio sobre Ondas, Marés, Engenharia Oceânica e por Satélites ([OMARSAT](https://www.omarsat.com.br/)). [[poster](/assets/pdf/SilvaDottori_OMARSAT19.pdf)].
+2. * Penninck, S. and Lopes, R. M. and **Silva**, D. and Tuchen, P. and Baudena, A. and Stemman, L. and Brandt, P. and Kiko, R. (2025). Influence of upper-ocean physical processes on carbon flux variation in the mesopelagic equatorial Atlantic. Final Scientific Conference, AtlantECO - Oral presentation.
 
+3. * **Silva**, D. and Santos, G. and Penninck, S. and Silveira, I. C. A. and Guidi, L. and Elineau, A. and Calil, P. and Lopes, R. M. (2025). Flow-topography interactions drive zooplankton abundance and carbon export to depth along the Vitoria-Trindade Seamount Chain (Southwest Atlantic). Final Scientific Conference, AtlantECO - Oral presentation.
