@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 nav: true
 description: My publications in reverse chronological order with highlights in <strong>bold</strong>. Papers with a journal listed means they are already submitted.
-years: [2025, 2024, 2023, 2022, 2021, 2019]
+years: [2026, 2025, 2024, 2023, 2022, 2021, 2019]
 order: 7
 ---
 
