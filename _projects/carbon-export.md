@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Physical processes influence on carbon export
-description: exploring the 
+description: exploring how physical processes shape how carbon is transported and exported from the ocean surface to depth.
 img: assets/img/atlanteco_microbiomes.png
 importance: 2
 category: research
@@ -34,11 +34,11 @@ Understanding these physical-biogeochemical couplings is essential to improving 
 </div>
 
 <p style="text-align: justify"> 
-In my current position, I am using Underwater Vision Profiler (UVP) data to quantify the particulate organic carbon (POC) content and vertical fluxes in different hydrographic regimes of the Amazon River plume. I also examine how particle types (aggregates vs. fecal pellets) and zooplankton communities influence the magnitude and efficiency of export from the euphotic zone. These in situ observations are critical to understanding how biological and physical drivers shape vertical flux profiles.
+In this work, we used Underwater Vision Profiler (UVP) data to quantify the particulate organic carbon (POC) content and vertical fluxes in different hydrographic regimes of the Amazon River plume. We also examined how particle types (aggregates vs. fecal pellets) and zooplankton communities influenced the magnitude and efficiency of export from the euphotic zone. These in situ observations were critical to understanding how biological and physical drivers shape vertical flux profiles.
 </p>
 
 <p style="text-align: justify"> 
-Building on these observations, I'm interested to simulate how organic carbon is laterally transported from the Amazon plume into the open ocean and deeper layers and what kind of transformation they are subjected to during this advection. This work will assess how physical processes (e.g., stratification, mesoscale eddies, subduction) interact with biogeochemical transformations to determine whether exported carbon is remineralized near the surface or sequestered in the mesopelagic zone, where it can fuel respiration and impact oxygen availability.
+Building on these observations, we were interested in simulating how organic carbon is laterally transported from the Amazon plume into the open ocean and deeper layers and what kind of transformation it is subjected to during this advection. This work assessed how physical processes (e.g., stratification, mesoscale eddies, subduction) interact with biogeochemical transformations to determine whether exported carbon is remineralized near the surface or sequestered in the mesopelagic zone, where it can fuel respiration and impact oxygen availability.
 </p>
 
 
