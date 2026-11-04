@@ -24,7 +24,7 @@ Subsurface intrusions of salty and warm waters onto the shelf can potentially im
 
 <h4>An inventory of salty and warm subsurface intrusions in the South Brazil Bight (SBB)</h4>
 
-First manuscript from my Ph.D. thesis, submitted to Continental Shelf Research.
+First manuscript from my Ph.D. thesis, available on [Continental Shelf Research](https://doi.org/10.1016/j.csr.2023.104984).
 
 ---
 
@@ -48,11 +48,32 @@ In this work, we applied a detection algorithm on a historical hydrographic data
     </div>
 </div>
 
+<h4>Evidence of synoptic cross-shelf pathways of mid-dept Salinity Maximum intusions in the South Brazil Bight</h4>
+
+Second manuscript from my Ph.D. thesis, available as a [preprint](https://doi.org/10.22541/essoar.176771720.05845924/v1).
+
+---
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <p style="text-align: justify">
+Cross-shelf exchanges play a crucial role in distributing heat, salt, pollutants, and biogeochemical properties between the continental shelf and the open ocean. Among the processes shaping these exchanges, the intrusion of salty and warm waters (mid-depth Salinity Maximum, S max ) remains poorly understood in the South Brazil Bight (SBB). Here, we present observational evidence of S max intrusions in the Northeast SBB (NE-SBB) from independent measurements between February and March 2022. The dataset identified the Cabo Frio Eddy (CFE) as the main mechanism driving a cross-shelf pathway to the shelf break, with advection further enhanced by interaction with an Agulhas Ring. Backward Lagrangian analysis confirmed this pathway and traced the origin of S max   to northeastern locations outside the NE-SBB. It also suggested an additional southwestward along-shelf pathway, resembling the non-meandering Brazil Current, directly advecting S max from their source region. In both cases, once S max reached the shelf break, Burger number (Bu) analysis revealed an onshore counterflow at mid-depths (Bu >1), driven by wind-induced circulation and reinforced by mesoscale dynamics. These findings highlight the role of the CFE in connecting offshore waters to the shelf and emphasize the importance of remote intrusions in shaping the thermodynamics and biogeochemistry of the SBB.
+        </p>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/pathways_schematics_structure.png" title="Smax Pathways schematics" class="img-fluid rounded z-depth-1" %}
+        <p style="font-size: 12px; text-align: justify">
+        Fig. 3 - Schematic flow field summarizing the pathways of Salinity Maximum intrusions.
+        </p>
+
+    </div>
+</div>
+
 ---
 
 <h4>Next chapters ...</h4>
 
 <p style="text-align: justify">
-Our next step is to use numerical experiments to explore the dynamics of these intrusions, by investigating their trigger processes, how intrusions dissipate into the shelf and what is their impact on the heat/salt budget of the shelf. We will use the Regional Ocean Modeling System (ROMS) in the SBB domain (Figure 3), forced at the boundaries by global outputs from GLORYS12V1 and at the surface by global reanalysis from ERA5. We expect to replicate the conditions during two cruises that observed subsurface intrusions in two distinct areas and from that investigate the processes that influence the formation of this features.
+We are preparing a third manuscript, using numerical experiments to explore the dynamics of these intrusions, investigating physical processes acting on its advection, shelf injection and dissipation. We are applying a set of Regional Ocean Modeling System (ROMS) experiments in the SBB as well as idealized experiments to get a better understanding on how these features affect the cross-shelf exchanges and shelf salt budget.
 </p>
 
